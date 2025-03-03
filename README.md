@@ -25,17 +25,22 @@ This Power BI dashboard provides an in-depth analysis of Indian Premier League (
 - **📂 Data Source:** IPL historical data from 2008 to 2024.
 
 ## 📖 How to Use
-```sh
-# Open the Power BI dashboard file (.pbix)
-1. Use the filters to select a specific season, team, or player.
+
+### 📂 Open the Power BI dashboard file (.pbix)
+
+1. Use the filters to **select** a specific season, team, or player.
 2. Analyze trends using interactive visualizations.
 3. Gain insights into team performances, player achievements, and match outcomes.
+
+---
 
 ## 🔮 Future Improvements
 
 1. 🔍 **Adding more granular filters** (e.g., player vs. player comparisons).
 2. 📡 **Integrating real-time data updates**.
 3. 🎨 **Enhancing visual aesthetics** with custom themes.
+
+---
 
 ## 🏷️ Topics
 
@@ -44,6 +49,7 @@ This Power BI dashboard provides an in-depth analysis of Indian Premier League (
 - Cricket Statistics
 - Data Visualization
 - Sports Analytics
+
 
 
 
