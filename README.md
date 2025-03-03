@@ -32,19 +32,18 @@ This Power BI dashboard provides an in-depth analysis of Indian Premier League (
 3. Gain insights into team performances, player achievements, and match outcomes.
 
 ## 🔮 Future Improvements
-```sh
-# Future Enhancements
-1. 🔍 Adding more granular filters (e.g., player vs. player comparisons).
-2. 📡 Integrating real-time data updates.
-3. 🎨 Enhancing visual aesthetics with custom themes.
+
+1. 🔍 **Adding more granular filters** (e.g., player vs. player comparisons).
+2. 📡 **Integrating real-time data updates**.
+3. 🎨 **Enhancing visual aesthetics** with custom themes.
 
 ## 🏷️ Topics
+
 - Power BI
 - IPL Analysis
 - Cricket Statistics
 - Data Visualization
 - Sports Analytics
-
 
 
 
