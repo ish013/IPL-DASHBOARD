@@ -1,7 +1,8 @@
 # IPL Dashboard (2008-2024)
 
 ## 🖼️ Screenshots
-![image](https://github.com/user-attachments/assets/522a5183-8c49-400c-bbf4-5bdd941420a8)
+![image](https://github.com/user-attachments/assets/90b53068-45e1-4b17-a056-1d6f911846fb)
+
 
 ## 🏏 Overview
 This Power BI dashboard provides an in-depth analysis of Indian Premier League (IPL) data from 2008 to 2024. It offers interactive visualizations and insights into various aspects of the tournament, including team performances, player statistics, match outcomes, and key metrics.
